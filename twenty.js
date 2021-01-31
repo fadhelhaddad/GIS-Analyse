@@ -1,0 +1,1 @@
+$(window).load(function() {  $("#c1").twentytwenty();});
